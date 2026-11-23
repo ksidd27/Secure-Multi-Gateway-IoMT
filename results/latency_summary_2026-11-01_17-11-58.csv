@@ -1,0 +1,3 @@
+"Path","TotalRequests","Successful200","MeanLatencyMs","MedianLatencyMs","P95LatencyMs","MeanResponseBytes"
+"Direct","20","20","49.94","47.77","57.93","1844"
+"Kong_JWT","20","20","53.3","48.78","85.88","1844"

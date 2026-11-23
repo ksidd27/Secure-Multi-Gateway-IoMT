@@ -1,0 +1,3 @@
+"Path","Requests","Successful","MeanMs","MedianMs","StdDevMs","P95Ms"
+"Direct","60","60","43.96","41.38","8.25","57.45"
+"Kong_JWT","60","60","45.75","41.6","11.29","69.88"

@@ -1,0 +1,22 @@
+﻿Response Size Validation
+Date: 2026-11-01 17:20:55
+
+Endpoint:
+GET /api/v1/event/device/Random-Boolean-Device/5
+
+Direct path:
+Successful responses: 20/20
+Minimum response size: 1844 bytes
+Maximum response size: 1844 bytes
+Average response size: 1844 bytes
+
+Kong + JWT path:
+Successful responses: 20/20
+Minimum response size: 1844 bytes
+Maximum response size: 1844 bytes
+Average response size: 1844 bytes
+
+Conclusion:
+Both paths returned identical response sizes for all 20 requests.
+This supports a fair comparison of client-observed latency.
+The latency results remain preliminary and require further repetitions.
